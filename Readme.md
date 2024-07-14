@@ -35,8 +35,6 @@
 <div align="center">
 <a href="https://github.com/piyush9012">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyush9012&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyush9012&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyush9012&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=piyush9012&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyush9012&theme=2077" height="180em" />
 </div>
